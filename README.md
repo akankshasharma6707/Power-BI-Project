@@ -46,9 +46,16 @@ https://app.powerbi.com/view?r=eyJrIjoiZmU4YzZjZjgtNzNmYy00ZGI4LTgzNzMtZTBkZjU4Z
 ## Tools Used
 - Power BI
 - DAX
-- Data Modeling
+- Data Modeling (SQL)
 - Scenario Analysis
 - Data Visualization
+  
+## Data Preparation
+- Data extraction and transformation using SQL
+- Data modeling for store, equipment, and utility metrics
+- Aggregation of yearly consumption and cost measures
+
+
 
 ## Author
 Akanksha Sharma  
