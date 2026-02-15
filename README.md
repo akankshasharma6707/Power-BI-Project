@@ -36,7 +36,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZmU4YzZjZjgtNzNmYy00ZGI4LTgzNzMtZTBkZjU4Z
 ![Filter](POWER BI Project/scenario_filter.jpg)
 
 ### Navigation & Pages
-![Navigation](POWER BI Project/navigation_tabs.jpg)
+![Navigation](POWER BI Project/Navigation_tab.jpg)
 
 ### Interactive Tooltips
 ![Tooltip](POWER BI Project/tooltip_equipment.jpg)
