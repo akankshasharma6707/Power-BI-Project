@@ -27,21 +27,21 @@ https://app.powerbi.com/view?r=eyJrIjoiZmU4YzZjZjgtNzNmYy00ZGI4LTgzNzMtZTBkZjU4Z
 ## Dashboard Preview
 
 ### Main Energy Overview
-![Main Dashboard](POWER BI Project/dashboard_main.jpg)
+![Main Dashboard](POWER%20BI%20Project/dashboard_main.jpg)
 
 ### Electricity Consumption Analysis
-![Electricity](POWER BI Project/electricity_analysis.jpg)
+![Electricity](POWER%20BI%20Project/electricity_analysis.jpg)
 
 ### Scenario & Filters
-![Filter](POWER BI Project/scenario_filter.jpg)
+![Filter](POWER%20BI%20Project/scenario_filter.jpg)
 
 ### Navigation & Pages
-![Navigation](POWER BI Project/Navigation_tab.jpg)
+![Navigation](POWER%20BI%20Project/Navigation_tab.jpg)
 
 ### Interactive Tooltips
-![Tooltip](POWER BI Project/tooltip_equipment.jpg)
-![Tooltip](POWER BI Project/tooltip_store.jpg)
-![Tooltip](POWER BI Project/tooltip_detail.jpg)
+![Tooltip](POWER%20BI%20Project/tooltip_equipment.jpg)
+![Tooltip](POWER%20BI%20Project/tooltp_store.jpg)
+![Tooltip](POWER%20BI%20Project/tooltip_detail.jpg)
 
 ## Tools Used
 - Power BI
